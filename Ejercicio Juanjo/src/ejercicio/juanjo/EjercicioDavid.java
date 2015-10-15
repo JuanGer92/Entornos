@@ -10,5 +10,6 @@ package ejercicio.juanjo;
  * @author dluengog05
  */
 public class EjercicioDavid {
-    //Soy David ;)
+    //Soy David
+    //Juanjo
 }
