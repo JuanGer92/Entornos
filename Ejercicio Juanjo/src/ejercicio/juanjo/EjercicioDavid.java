@@ -11,5 +11,5 @@ package ejercicio.juanjo;
  */
 public class EjercicioDavid {
     //Soy David
-    //Juanjo
+    //Ejercicio Juanjo
 }
