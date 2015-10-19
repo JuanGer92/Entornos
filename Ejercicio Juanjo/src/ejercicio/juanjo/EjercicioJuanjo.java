@@ -21,5 +21,5 @@ public class EjercicioJuanjo {
         
         System.out.println(resultado);
     }
-    
+    //Ejercicio David
 }
