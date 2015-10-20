@@ -11,4 +11,12 @@ package ejercicio.juanjo;
  */
 public class EjercicioDavid {
     //Soy David ;)
+    
+  public static void main(String[] args) {
+      
+        System.out.println("hola soy Adri");
+        
+        
+        
+    }
 }

@@ -21,6 +21,15 @@ public class EjercicioJuanjo {
         
         
         System.out.println(resultado);
+        
+        
+       /////////////////////////////////////////////////
+      
+        System.out.println("hola soy Adri");
+        
+        
+        
+    
     }
     
 }
