@@ -19,6 +19,7 @@ public class EjercicioJuanjo {
         
         resultado = num1 * num2;
         
+        
         System.out.println(resultado);
     }
     
